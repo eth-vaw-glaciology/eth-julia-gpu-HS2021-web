@@ -5,7 +5,7 @@ The website_* must be defined for the RSS to work
 -->
 @def website_title = "Julia GPU course"
 @def website_descr = "Website for the Julia GPU course material"
-@def website_url   = "https://eth-vaw-glaciology.github.io/"
+@def website_url   = "https://eth-vaw-glaciology.github.io/eth-julia-gpu-HS2021-web"
 
 @def author = "ETHZ - VAW-GL"
 
